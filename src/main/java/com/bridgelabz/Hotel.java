@@ -51,6 +51,7 @@ package com.bridgelabz;
         }
 
         @Override
+
         public String toString() {
             return "Hotels [hotelName=" + hotelName + ", rating=" + rating + ", weekdayRegularCustomerPrice="
                     + weekdayRegularCustomerCost + ", weekendRegularCustomerPrice=" + weekendRegularCustomerCost + "]";
